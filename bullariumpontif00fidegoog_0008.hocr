@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bullariumpontif00fidegoog_0008.png"; bbox 0 0 4834 6409; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 520 231 1229 369">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 520 231 1229 369">
+     <span class='ocr_line' id='line_1_1' title="bbox 520 231 1229 369; baseline -0.001 -10"><span class='ocrx_word' id='word_1_1' title='bbox 520 231 1229 369; x_wconf 49' lang='lat'>0440-3070</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2211 844 3171 926">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2211 844 3171 926">
+     <span class='ocr_line' id='line_1_2' title="bbox 2211 844 3171 926; baseline -0.003 -25"><span class='ocrx_word' id='word_1_2' title='bbox 2211 844 2484 901; x_wconf 67' lang='grc' dir='ltr'>ιιΑκνΑκο</span> <span class='ocrx_word' id='word_1_3' title='bbox 2505 846 3037 906; x_wconf 50' lang='lat' dir='ltr'>con-moenem&amp;</span> <span class='ocrx_word' id='word_1_4' title='bbox 3101 852 3112 865; x_wconf 75' lang='grc'>’</span> <span class='ocrx_word' id='word_1_5' title='bbox 3141 873 3171 926; x_wconf 83' lang='lat'>·.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2402 925 2845 1102">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2402 925 2845 1102">
+     <span class='ocr_line' id='line_1_3' title="bbox 2402 925 2807 1048; baseline -0.002 -67"><span class='ocrx_word' id='word_1_6' title='bbox 2402 927 2622 1048; x_wconf 51' lang='lat' dir='ltr'>7LREAT</span> <span class='ocrx_word' id='word_1_7' title='bbox 2644 925 2807 980; x_wconf 74' lang='lat' dir='ltr'>FUND</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2503 997 2845 1102; baseline 0.012 -34"><span class='ocrx_word' id='word_1_8' title='bbox 2503 1001 2578 1102; x_wconf 59' lang='lat' dir='ltr'>‘ff</span> <span class='ocrx_word' id='word_1_9' title='bbox 2597 997 2845 1072; x_wconf 57' lang='lat'>³:29³:-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
